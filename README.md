@@ -1,4 +1,4 @@
-Face Mask Detection
+# Face Mask Detection
 
 This repository contains a face-mask detector built using Tensorflow/keras and OpenCV
 
